@@ -1,0 +1,36 @@
+p {
+    color: black;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+
+body {
+    background-color: #A1F7A1;
+    text-align: center;
+    background-image: repeat;
+    background-image: url('https://stickershop.line-scdn.net/sticonshop/v1/product/5c8602e5031a6778cf2f2c72/iPhone/main.png?v=2');
+
+}
+
+.header {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    
+
+}
+
+.header > div {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 50px;
+    margin: 10px;
+    padding: 10px;
+}
+
